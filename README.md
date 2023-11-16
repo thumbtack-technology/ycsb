@@ -16,6 +16,8 @@ permissions and limitations under the License. See accompanying
 LICENSE file.
 -->
 
+This is an unarchived fork of https://github.com/brianfrankcooper/YCSB created in 2012 by Thumbtack Technology (currently known as Lineate) and referenced in "Ultra-High Performance NoSQL Benchmarking: Analyzing Durability and Performance Tradeoff" Report
+
 Yahoo! Cloud System Benchmark (YCSB)
 ====================================
 [![Build Status](https://travis-ci.org/brianfrankcooper/YCSB.png?branch=master)](https://travis-ci.org/brianfrankcooper/YCSB)
